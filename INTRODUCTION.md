@@ -1,0 +1,8 @@
+- 👋 Hi, I’m yashar
+- 👀 I’m interested in solving problems in Complex Systems & Networks Science fields using ML, DL & AI methods.
+- 🌱 I’m currently a 4th-year bachelor student in Physics and also learning ML using Python and related libraries.
+- 💞️ I’m looking to collaborate on projects in BioPhysics & Computational Neuroscience fields.
+- 📫 How to reach me:
+-Telegram: @Yasharism
+-Email: yashartayyarazad99@gmail.com
+-LinkedIn: https://www.linkedin.com/in/yashar-tayyarazad/
